@@ -7,6 +7,7 @@
   <a href="https://twitter.com/fuergaosi" target="_blank">
     <img alt="Twitter: fuergaosi" src="https://img.shields.io/twitter/follow/fuergaosi.svg?style=social" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fvisjia%2FWechat?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvisjia%2FWechat.svg?type=shield"/></a>
 </p>
 
 > Use ChatGPT On Wechat via wechaty  
@@ -15,6 +16,9 @@ English | [中文文档](README_ZH.md)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BHJD6L?referralCode=FaJtD_)  
 
 If you don't have a server or want to experience rapid deployment, you can use Railway to do so, see [Usage with Railway](#usage-with-railway).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvisjia%2FWechat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvisjia%2FWechat?ref=badge_large)
 
 ## 🌟 Feature
 
